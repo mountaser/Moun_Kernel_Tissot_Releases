@@ -1,0 +1,24 @@
+Changelog:
+• Full Q Rebase and upstream
+Features for the new Rebase :
+
+• Full support for treble and none treble with 1 zip
+• Spectrum support
+• Kcal color control
+• Power Suspend
+• Speed up boot
+• Battery optimizations
+• Adreno Idler
+• Sound Control
+• Boeffla Wakelock Blocker
+• exfat Support
+• Full F2FS Support
+• WireGuard VPN tunnel support
+• WireGuard importer
+• LZ4 compression for ZRAM
+• State Notifier
+• 1.1.1.1 DNS
+• Linux Upstream to 4.9.216
+• Join the official Discussions Group for Moun Kernel https://t.me/mounkernel
+• Join my official release channel to stay uptodate with all of my work https://t.me/mounkernel
+• if you like my work please consider donating https://www.paypal.me/MountaserHalak
